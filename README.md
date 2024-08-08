@@ -1,2 +1,1 @@
-# LearnCSharpProject1
-Project to learn C#
+# A Project to Learn C#
